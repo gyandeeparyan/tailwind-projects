@@ -10,30 +10,26 @@ const Footer = () => {
               Copyright &copy; 2023, All Rights Reserved.
             </div>
             <div>
-              <img src="src\assets\logo-white.svg" className="h-8" alt="" />
+              <img src="assets\logo-white.svg" className="h-8" alt="" />
             </div>
             <div className="flex justify-center space-x-4">
               <a href="#">
-                <img
-                  src="src\assets\icon-facebook.svg"
-                  className="h-8"
-                  alt=""
-                />
+                <img src="assets\icon-facebook.svg" className="h-8" alt="" />
               </a>
               <a href="#">
-                <img src="src/assets/icon-youtube.svg" alt="" class="h-8" />
+                <img src="assets/icon-youtube.svg" alt="" class="h-8" />
               </a>
 
               <a href="#">
-                <img src="src/assets/icon-twitter.svg" alt="" class="h-8" />
+                <img src="assets/icon-twitter.svg" alt="" class="h-8" />
               </a>
 
               <a href="#">
-                <img src="src/assets/icon-pinterest.svg" alt="" class="h-8" />
+                <img src="assets/icon-pinterest.svg" alt="" class="h-8" />
               </a>
 
               <a href="#">
-                <img src="src/assets/icon-instagram.svg" alt="" class="h-8" />
+                <img src="assets/icon-instagram.svg" alt="" class="h-8" />
               </a>
             </div>
           </div>

@@ -13,7 +13,7 @@ const Reviews = () => {
             <div className="flex flex-col items-center p-6 space-y-6 rounded-lg bg-veryLightyGray md:w-1/3">
               <img
                 className="w-16 -mt-14"
-                src="src\assets\avatar-anisha.png"
+                src="assets\avatar-anisha.png"
                 alt=""
               />
               <h5 className="text-lg font-bold">Anisha Li</h5>
@@ -24,7 +24,7 @@ const Reviews = () => {
               </p>
             </div>
             <div class="hidden flex-col items-center p-6 space-y-6 rounded-lg bg-veryLightGray md:flex md:w-1/3">
-              <img src="src/assets/avatar-ali.png" class="w-16 -mt-14" alt="" />
+              <img src="assets/avatar-ali.png" class="w-16 -mt-14" alt="" />
               <h5 class="text-lg font-bold">Ali Bravo</h5>
               <p class="text-sm text-darkGrayishBlue">
                 “We have been able to cancel so many other subscriptions since
@@ -33,11 +33,7 @@ const Reviews = () => {
               </p>
             </div>
             <div class="hidden flex-col items-center p-6 space-y-6 rounded-lg bg-veryLightGray md:flex md:w-1/3">
-              <img
-                src="src/assets/avatar-richard.png"
-                class="w-16 -mt-14"
-                alt=""
-              />
+              <img src="assets/avatar-richard.png" class="w-16 -mt-14" alt="" />
               <h5 class="text-lg font-bold">Richard Watts</h5>
               <p class="text-sm text-darkGrayishBlue">
                 “Manage has supercharged our team’s workflow. The ability to
